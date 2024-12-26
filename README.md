@@ -1,6 +1,8 @@
 # SPOT
 Medical Image Diagnosis Model via Neural Networks 
 
+Install the images here: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000 
+
 The SPOT Acronym…
 
 S - Smart Technology 
